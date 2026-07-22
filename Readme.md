@@ -35,7 +35,7 @@ project-root/
 
 ## 1. Study Purpose and Executive Objective
 
-This repository contains the analytical framework used to investigate the primary environmental, meteorological, and spatial drivers of ambient fine particulate matter (PM2.5) levels within the Calgary metropolitan area during June 2026.
+This repository contains the analytical framework used to investigate the primary environmental, meteorological, and spatial drivers of ambient fine particulate matter (PM2.5) levels within the Calgary metropolitan area during June 2026. Data was sourced from Alberta Environment public monitoring stations via the Calgary Region Airshed Zone (CRAZ) repository.
 
 By employing linear mixed-effects models (LMMs), advanced feature engineering, and a standardized regression diagnostic pipeline, this project isolates localized air quality variations. The core objective is to identify the underlying meteorological and temporal dynamics that influence urban pollutant behavior during early summer conditions, providing a reproducible methodology for high-resolution spatial air quality assessment.
 
