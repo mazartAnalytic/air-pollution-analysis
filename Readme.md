@@ -8,18 +8,18 @@ A reproducible R pipeline for analyzing air pollution sensor data, managing envi
 ---
 
 ## Project Structure
-
+```
 project-root/
 ├── data/
-│   ├── raw/             # Active directory for "air pollution data.csv"
-│   └── processed/       # Storage for cleaned and filtered data exports
-├── reports/             # Destination for diagnostic output PDFs
-├── License.txt          # Project license
-├── main.R               # Primary analysis script
-├── Readme.md            # Project documentation
-├── setup_project.sh     # Shell script to create directory structure
-└── setup_project.bat    # Windows batch script to create directory structure
-
+│   ├── raw/            # Active directory for "air pollution data.csv"
+│   └── processed/      # Storage for cleaned and filtered data exports
+├── reports/            # Destination for diagnostic output PDFs
+├── License.txt         # Project license
+├── main.R              # Primary analysis script
+├── Readme.md           # Project documentation
+├── setup_project.sh    # Shell script to create directory structure
+└── setup_project.bat   # Windows batch script to create directory structure
+```
 ---
 
 ## Getting Started
