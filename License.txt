@@ -1,4 +1,4 @@
-Copyright (c) 2026 Marie Zerkoff. All rights reserved.
+Copyright (c) 2026 mazart.Analitic. All rights reserved.
 
 1. Personal and Academic Use:
 Permission is hereby granted, free of charge, to any person or academic/educational institution obtaining a copy of this software and associated documentation files to use, copy, and modify the software for non-commercial, research, or personal purposes.
