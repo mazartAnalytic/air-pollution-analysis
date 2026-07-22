@@ -1,0 +1,10 @@
+Copyright (c) 2026 Marie Zerkoff. All rights reserved.
+
+1. Personal and Academic Use:
+Permission is hereby granted, free of charge, to any person or academic/educational institution obtaining a copy of this software and associated documentation files to use, copy, and modify the software for non-commercial, research, or personal purposes.
+
+2. Commercial Use Restriction:
+Any use of this software by a commercial entity, business, or for-profit organization, or any use that generates direct or indirect revenue, is strictly prohibited without the express written permission of the author and the execution of a separate commercial license agreement.
+
+3. Disclaimer:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
